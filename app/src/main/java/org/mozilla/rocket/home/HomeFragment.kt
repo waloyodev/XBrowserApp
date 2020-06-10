@@ -34,7 +34,6 @@ import kotlinx.android.synthetic.main.fragment_home.home_fragment_fake_input_ico
 import kotlinx.android.synthetic.main.fragment_home.home_fragment_fake_input_text
 import kotlinx.android.synthetic.main.fragment_home.home_fragment_menu_button
 import kotlinx.android.synthetic.main.fragment_home.home_fragment_tab_counter
-import kotlinx.android.synthetic.main.fragment_home.home_fragment_title
 import kotlinx.android.synthetic.main.fragment_home.logo_man_notification
 import kotlinx.android.synthetic.main.fragment_home.main_list
 import kotlinx.android.synthetic.main.fragment_home.page_indicator
@@ -264,11 +263,6 @@ class HomeFragment : LocaleAwareFragment(), ScreenNavigator.HomeScreen {
                     View.VISIBLE
                 }
                 content_hub.setItems(items)
-                home_fragment_title.apply {
-                    layoutParams = (layoutParams as ConstraintLayout.LayoutParams).apply {
-                        verticalBias = 0.26f
-                    }
-                }
             })
             openContentPage.observe(viewLifecycleOwner, Observer {
                 val context = requireContext()

@@ -16,7 +16,7 @@ public class UpgradeFirstrunPagerAdapter extends FirstrunPagerAdapter {
             this.pages.add(new FirstrunPage(
                     context.getString(R.string.onboarding_2_introduction_title, context.getString(R.string.app_name)),
                     context.getString(R.string.onboarding_2_introduction_description),
-                    R.drawable.ic_onboarding_first_use));
+                    R.mipmap.ic_launcher));
         }
     }
 }

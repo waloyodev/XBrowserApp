@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">Kalön hasé u keue</string>
   <string name="accessibility_find_previous_result">Kalön hasé u likôt</string>
   <string name="accessibility_dismiss_find_in_page">Tôp mita lam laman</string>
-  <string name="text_selection_search_action">Mita lam Firefox Lite</string>
+  <string name="text_selection_search_action">Mita lam X Browser App</string>
   <string name="about_content_body">%1$s nakeuh saboh browser nyang bagah ngön phui atra jipeugöt lé %2$s. Meukeusud kamoe nakeuh keu meupeularha internet nyang jroh ngön teupeuhah.</string>
   <string name="about_link_learn_more">Meurunoe lom</string>
   <string name="about_link_support">Dukông</string>
@@ -189,7 +189,7 @@
   <string name="update_to_latest_app_snack_bar_message">Nyan ban teuseubaro ka meucok-keubah</string>
   <string name="update_to_latest_app_snack_bar_update">SEUBARO</string>
   <string name="privacy_policy_update_notification_title">Bri Thèe Pubarô Produk</string>
-  <string name="privacy_policy_update_notification_action">Mangat jeuet Firefox Lite leubèh göt keu Droeneuh ngön ban mandum ureueng, kamoe meupeugöt padum-padum boh hai barô lam keubijakan privasi kamoe. Neuteugön keu neumeurunoe leubèh lanjut lom.</string>
+  <string name="privacy_policy_update_notification_action">Mangat jeuet X Browser App leubèh göt keu Droeneuh ngön ban mandum ureueng, kamoe meupeugöt padum-padum boh hai barô lam keubijakan privasi kamoe. Neuteugön keu neumeurunoe leubèh lanjut lom.</string>
   <string name="rate_app_dialog_text_title">Galak keu %1$s?</string>
   <string name="rate_app_dialog_text_content">Sabah ka neupiléh produk kamoe. Saran Droeneuh peunténg keu kamoe.</string>
   <string name="rate_app_dialog_btn_go_rate">Nyo, bri 5 bintang!</string>
@@ -202,7 +202,7 @@
   <string name="share_app_promotion_text">Hai, neuci browser atra %3$s nyoe. Bagah ngön phui. %1$s%2$s</string>
   <string name="your_rights_content1">%1$s nakeuh saboh software bibeueh ngön open source nyang geupeugöt lé %2$s ngön ureueng laén.</string>
   <string name="your_rights_content2"><![CDATA["%1$s geuseudia keu Droeneuh ngön syarat "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">%3$s</a>" dan lisènsi nè teuhah nyang laén."]]></string>
-  <string name="your_rights_content3"><![CDATA["Droeneuh hana geubri hak atawa lisènsi keu mèrèk meukat Mozilla Foundation atawa pihak laén, rôh lam nyan nan atawa lambang %3$s, %4$s, atawa %1$s. Haba leubèh lanjut jeuet neukalon "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">sinoe</a>.]]></string>
+  <string name="your_rights_content3"><![CDATA["Droeneuh hana geubri hak atawa lisènsi keu mèrèk meukat X Browser App atawa pihak laén, rôh lam nyan nan atawa lambang %3$s, %4$s, atawa %1$s. Haba leubèh lanjut jeuet neukalon "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">sinoe</a>.]]></string>
   <string name="your_rights_content4"><![CDATA["Kode asai tambahan keu %1$s ka na lam padub boh "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">" lisensi "</a>" laén nyang pré ngön kodé teuhah."]]></string>
   <string name="your_rights_content5"><![CDATA["%1$s na cit geungui dapeuta blokir nyang jiseudia lé Disconnect, Inc. seubagoe buet teupisah ngön teudöng keudroe di yup "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">" GNU General Public License v3 "</a>", dan teuseudia "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%3$s">sinoe</a>.]]></string>
   <string name="survey_notification_title">Kamoë peureulèë droëneuh! %1$s</string>

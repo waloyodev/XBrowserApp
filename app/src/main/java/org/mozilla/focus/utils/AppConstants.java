@@ -24,23 +24,28 @@ public final class AppConstants {
     }
 
     public static boolean isDevBuild() {
-        return BUILD_TYPE_DEBUG.equals(BuildConfig.BUILD_TYPE);
+        return false;
+        //return BUILD_TYPE_DEBUG.equals(BuildConfig.BUILD_TYPE);
     }
 
     public static boolean isCoverageBuild() {
-        return BUILD_TYPE_COVERAGE.equals(BuildConfig.BUILD_TYPE);
+        return false;
+        //return BUILD_TYPE_COVERAGE.equals(BuildConfig.BUILD_TYPE);
     }
 
     public static boolean isFirebaseBuild() {
-        return BUILD_TYPE_FIREBASE.equals(BuildConfig.BUILD_TYPE);
+        return false;
+        //return BUILD_TYPE_FIREBASE.equals(BuildConfig.BUILD_TYPE);
     }
 
     public static boolean isBuiltWithFirebase() {
-        return isReleaseBuild() || isFirebaseBuild();
+        return false;
+        //return isReleaseBuild() || isFirebaseBuild();
     }
 
     public static boolean isReleaseBuild() {
-        return BUILD_TYPE_RELEASE.equals(BuildConfig.BUILD_TYPE);
+        return true;
+        //return BUILD_TYPE_RELEASE.equals(BuildConfig.BUILD_TYPE);
     }
 
     public static boolean supportsDownloadingFiles() {
@@ -48,7 +53,8 @@ public final class AppConstants {
     }
 
     public static boolean isNightlyBuild() {
-        return BuildConfig.FLAVOR_product == FLAVOR_product_NIGHTLY;
+        return false;
+        //return BuildConfig.FLAVOR_product == FLAVOR_product_NIGHTLY;
     }
 
     /**

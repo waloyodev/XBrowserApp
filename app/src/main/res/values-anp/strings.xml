@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">अगलो परिणाम जानोॅ</string>
   <string name="accessibility_find_previous_result">पिछ्लो परिणाम जानोॅ</string>
   <string name="accessibility_dismiss_find_in_page">पेज में रद्द करोॅ</string>
-  <string name="text_selection_search_action">Firefox Lite में खोजोॅ</string>
+  <string name="text_selection_search_action">X Browser App में खोजोॅ</string>
   <string name="about_content_body">%1$s %2$s द्वारा बनाएल गेल एगो तेज आरु हल्लुक ब्राउजर छै. हमर मिशन स्वस्थ आरु खुलल इंटरनेट क बढ़ावा देनाय छै.</string>
   <string name="about_link_learn_more">बेसी जानकारी</string>
   <string name="about_link_support">समर्थन</string>
@@ -174,7 +174,7 @@
   <string name="pin_site">साइट पिन करोॅ</string>
   <string name="update_to_latest_app_snack_bar_update">अपडेट</string>
   <string name="privacy_policy_update_notification_title">उत्पाद अपडेट सूचना</string>
-  <string name="privacy_policy_update_notification_action">Firefox Lite कअ तोहरो आरु हर एक खतिर सबसे अच्छा बनबे लअ, हम अपनो गोपनीयता नीति मे कुछ बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै.</string>
+  <string name="privacy_policy_update_notification_action">X Browser App कअ तोहरो आरु हर एक खतिर सबसे अच्छा बनबे लअ, हम अपनो गोपनीयता नीति मे कुछ बदलाओ करलियै यै. अधिक जानै लअ टेप करिइयै.</string>
   <string name="rate_app_dialog_text_title">%1$s पसंद छै?</string>
   <string name="rate_app_dialog_text_content">हमरो उत्पाद क चुने ल धन्यवाद. अपनो कअ प्रतिक्रिया हमारा ल जरुरी छै.</string>
   <string name="rate_app_dialog_btn_go_rate">रेट करियै</string>
@@ -186,7 +186,7 @@
   <string name="share_app_promotion_text">हे, %3$s सअ तेज आरु हल्का ब्राउज़र क देखिइयै. %1$s %2$s</string>
   <string name="your_rights_content1">%1$s %2$s आरू दोसरो योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छियै.</string>
   <string name="your_rights_content2"><![CDATA["%1$s "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">" %3$s "</a>" आरू दोसरो मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."]]></string>
-  <string name="your_rights_content3"><![CDATA["तोहरो Mozilla Foundation या %3$s, %4$s या %1$s नाम या लोग समेत कोनो पार्टी के ट्रेडमार्क खातिर कोय अधिकार या लाइसेंस नय देल गेल छै.अतिरिक्त जानकारी "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">" &#2326;&#2340;&#2367;&#2352; "</a>पर मिल सकै छै.]]></string>
+  <string name="your_rights_content3"><![CDATA["तोहरो X Browser App या %3$s, %4$s या %1$s नाम या लोग समेत कोनो पार्टी के ट्रेडमार्क खातिर कोय अधिकार या लाइसेंस नय देल गेल छै.अतिरिक्त जानकारी "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">" &#2326;&#2340;&#2367;&#2352; "</a>पर मिल सकै छै.]]></string>
   <string name="your_rights_content4"><![CDATA["%1$s लेली अतिरिक्त स्रोत कोड अनेक दोसरो निशुल्क आरू मुक्त स्रोत "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">&#2354;&#2366;&#2311;&#2360;&#2375;&#2344;&#2381;&#2360;</a>केरो अंतर्गत उपलब्ध छै.]]></string>
   <string name="your_rights_content5"><![CDATA["%1$s भी डिस्कनेक्ट, इंक द्वारा देल गेल ब्लॉकलिस्ट के उपयोग "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">GNU &#2332;&#2344;&#2352;&#2354; &#2346;&#2348;&#2381;&#2354;&#2367;&#2325; &#2354;&#2366;&#2311;&#2360;&#2375;&#2306;&#2360; v3</a>" के तहत अलग आरु स्वतंत्र कार्यों के रूप में करै छै, आरु उपलब्ध छै "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%3$s">" &#2351;&#2361;&#2366;&#2306; "</a>.]]></string>
   <string name="survey_notification_title">हमरो तोहर जरुरत छै! %1$s</string>
@@ -299,15 +299,15 @@
   <string name="msrp_reward_category_1">लक्ष्य</string>
   <string name="msrp_reward_category_2">उपहार</string>
   <string name="msrp_reward_challenge_expire">%1$s को समाप्त</string>
-  <string name="msrp_challenge_details_title_2">आपनो इनाम खातिर आपनो Firefox खाता के प्रयोग करोॅ</string>
+  <string name="msrp_challenge_details_title_2">आपनो इनाम खातिर आपनो X Browser App खाता के प्रयोग करोॅ</string>
   <string name="msrp_challenge_tou_terms_of_use">प्रयोग केरो शर्तें</string>
   <string name="msrp_challenge_button_2">लक्ष्य छोरोॅ</string>
   <string name="msrp_challenge_separator">केना भंजैयै</string>
-  <string name="msrp_challenge_button_4">भंजाबे ले Firefox रो खाता के उपयोग करोॅ</string>
+  <string name="msrp_challenge_button_4">भंजाबे ले X Browser App रो खाता के उपयोग करोॅ</string>
   <string name="msrp_challenge_leaving_button_1">रद्द करोॅ</string>
   <string name="msrp_challenge_leaving_button_2">छोड़ दहो</string>
   <string name="msrp_completed_popup_title">बधाई हो!</string>
-  <string name="msrp_completed_popup_button1">भंजाबे ले Firefox रो खाता के उपयोग करोॅ</string>
+  <string name="msrp_completed_popup_button1">भंजाबे ले X Browser App रो खाता के उपयोग करोॅ</string>
   <string name="msrp_completed_popup_button2">बाद मेॅ</string>
   <string name="msrp_challenge_completed_title">बधाई हो!</string>
   <string name="msrp_challenge_button_5">बाद मेॅ भंजाबोॅ</string>

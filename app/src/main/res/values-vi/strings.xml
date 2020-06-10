@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">Tìm kiếm kết quả tiếp theo</string>
   <string name="accessibility_find_previous_result">Tìm kiếm kết quả trước đó</string>
   <string name="accessibility_dismiss_find_in_page">Bỏ qua tìm kiếm trong trang</string>
-  <string name="text_selection_search_action">Tìm kiếm trong Firefox Lite</string>
+  <string name="text_selection_search_action">Tìm kiếm trong X Browser App</string>
   <string name="about_content_body">%1$s là một trình duyệt nhanh và nhẹ được sản xuất bởi %2$s. Nhiệm vụ của chúng tôi là thúc đẩy một mạng internet mở, lành mạnh.</string>
   <string name="about_link_learn_more">Tìm hiểu thêm</string>
   <string name="about_link_support">Hỗ trợ</string>
@@ -191,7 +191,7 @@
   <string name="update_to_latest_app_snack_bar_message">Bản dựng mới nhất được tải xuống</string>
   <string name="update_to_latest_app_snack_bar_update">CẬP NHẬT</string>
   <string name="privacy_policy_update_notification_title">Thông báo cập nhật sản phẩm</string>
-  <string name="privacy_policy_update_notification_action">Để làm cho Firefox Lite tốt hơn cho bạn và mọi người, chúng tôi đã thực hiện một số thay đổi đối với chính sách quyền riêng tư của mình. Nhấn để tìm hiểu thêm.</string>
+  <string name="privacy_policy_update_notification_action">Để làm cho X Browser App tốt hơn cho bạn và mọi người, chúng tôi đã thực hiện một số thay đổi đối với chính sách quyền riêng tư của mình. Nhấn để tìm hiểu thêm.</string>
   <string name="message_set_default_success">Cảm ơn bạn đã chọn %1$s!</string>
   <string name="message_set_default_incomplet">Bạn có muốn hoàn thành cài đặt %1$s bằng cách đặt làm trình duyệt mặc định của mình không?</string>
   <string name="setting_default_browser_instruction_system_settings">Đặt %1$s làm trình duyệt mặc định của bạn trong 30 giây</string>
@@ -393,7 +393,7 @@
   <string name="msrp_challenge_description">Phiếu mua hàng Rp 15,000 Shopee</string>
   <string name="msrp_challenge_details_title_1">Tham gia thử thách 7 ngày</string>
   <string name="msrp_challenge_details_body_1">Hãy thử mua sắm, tin tức, trò chơi trên trang chủ %1$s bằng cách nhấp vào các nút trong bảy ngày liên tiếp.</string>
-  <string name="msrp_challenge_details_title_2">Sử dụng tài khoản Firefox của bạn để đổi phần thưởng của bạn</string>
+  <string name="msrp_challenge_details_title_2">Sử dụng tài khoản X Browser App của bạn để đổi phần thưởng của bạn</string>
   <string name="msrp_challenge_details_body_2">%1$s Đảm bảo bạn đăng nhập vào tài khoản bạn muốn sử dụng trước khi hoàn tất việc đổi quà.</string>
   <string name="msrp_challenge_details_sign_in_to_start">Nhập địa chỉ email của bạn để bắt đầu.</string>
   <string name="msrp_challenge_button_1">Tôi đã sẵn sàng!</string>
@@ -401,13 +401,13 @@
   <string name="msrp_challenge_tou_terms_of_use">Điều khoản sử dụng</string>
   <string name="msrp_challenge_button_2">Rời nhiệm vụ</string>
   <string name="msrp_challenge_separator">Làm thế nào để đổi quà</string>
-  <string name="msrp_challenge_button_4">Sử dụng tài khoản Firefox để đổi quà</string>
+  <string name="msrp_challenge_button_4">Sử dụng tài khoản X Browser App để đổi quà</string>
   <string name="msrp_challenge_leaving_body">Tất cả tiến độ của bạn sẽ bị xóa. Bạn có chắc không?</string>
   <string name="msrp_challenge_leaving_button_1">HỦY BỎ</string>
   <string name="msrp_challenge_leaving_button_2">RỜI KHỎI</string>
   <string name="msrp_completed_popup_title">Chúc mừng!</string>
   <string name="msrp_completed_popup_body">Cảm ơn bạn đã thử một số tính năng mới của chúng tôi. Chúng tôi hy vọng bạn thích sử dụng chúng!</string>
-  <string name="msrp_completed_popup_button1">Sử dụng tài khoản Firefox để đổi quà</string>
+  <string name="msrp_completed_popup_button1">Sử dụng tài khoản X Browser App để đổi quà</string>
   <string name="msrp_completed_popup_button2">Để sau</string>
   <string name="msrp_challenge_completed_title">Chúc mừng!</string>
   <string name="msrp_challenge_completed_body">Cảm ơn bạn đã thử một số tính năng mới của chúng tôi. Chúng tôi hy vọng bạn thích sử dụng chúng!</string>
@@ -424,10 +424,10 @@
   <string name="msrp_contact_us">Liên hệ với chúng tôi</string>
   <string name="msrp_reward_redeem_redeem">Đổi quà</string>
   <string name="msrp_reward_redeem_voucher">Phiếu mua hàng</string>
-  <string name="msrp_disqualification_title_1">Cảnh báo: đã phát hiện nhiều tài khoản Firefox</string>
-  <string name="msrp_disqualification_body_1">Chỉ một tài khoản Firefox có thể được sử dụng để tham gia thử thách 7 ngày. Nếu bạn chuyển đổi và sử dụng tài khoản khác, bạn sẽ bị loại khỏi thử thách này.</string>
+  <string name="msrp_disqualification_title_1">Cảnh báo: đã phát hiện nhiều tài khoản X Browser App</string>
+  <string name="msrp_disqualification_body_1">Chỉ một tài khoản X Browser App có thể được sử dụng để tham gia thử thách 7 ngày. Nếu bạn chuyển đổi và sử dụng tài khoản khác, bạn sẽ bị loại khỏi thử thách này.</string>
   <string name="msrp_disqualification_button_1">Tôi hiểu</string>
-  <string name="msrp_disqualification_title_2">Cảnh báo cuối cùng: đã phát hiện nhiều tài khoản Firefox</string>
+  <string name="msrp_disqualification_title_2">Cảnh báo cuối cùng: đã phát hiện nhiều tài khoản X Browser App</string>
   <string name="msrp_disqualification_title_3">Tài khoản đã bị vô hiệu hóa</string>
   <string name="msrp_disqualification_body_3">Bạn không còn có thể tham gia vào thử thách 7 ngày.</string>
   <string name="msrp_disqualification_button_3">Đóng</string>

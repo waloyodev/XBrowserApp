@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">查找下一个结果</string>
   <string name="accessibility_find_previous_result">查找上一个结果</string>
   <string name="accessibility_dismiss_find_in_page">关闭页内查找</string>
-  <string name="text_selection_search_action">在 Firefox Lite 中搜索</string>
+  <string name="text_selection_search_action">在 X Browser App 中搜索</string>
   <string name="about_content_body">%1$s 是由 %2$s 出品的快速而轻量的浏览器。我们以营造健康、开放的互联网为己任。</string>
   <string name="about_link_learn_more">详细了解</string>
   <string name="about_link_support">技术支持</string>
@@ -191,7 +191,7 @@
   <string name="update_to_latest_app_snack_bar_message">最新版本已下载完毕</string>
   <string name="update_to_latest_app_snack_bar_update">更新</string>
   <string name="privacy_policy_update_notification_title">产品更新通知</string>
-  <string name="privacy_policy_update_notification_action">为了让 Firefox Lite 更适合您和每个人，我们对隐私政策进行了一些修改。点按以了解更多信息。</string>
+  <string name="privacy_policy_update_notification_action">为了让 X Browser App 更适合您和每个人，我们对隐私政策进行了一些修改。点按以了解更多信息。</string>
   <string name="message_set_default_success">感谢您选择 %1$s！</string>
   <string name="message_set_default_incomplet">您是否想要将 %1$s 设为默认浏览器？</string>
   <string name="setting_default_browser_instruction_system_settings">只需 30 秒，将 %1$s 设为默认浏览器</string>
@@ -393,7 +393,7 @@
   <string name="msrp_challenge_description">价值 15,000 印尼卢比（Rp）Shopee 代金券</string>
   <string name="msrp_challenge_details_title_1">加入七日挑战赛</string>
   <string name="msrp_challenge_details_body_1">连续七天点击 %1$s 主页中的购物、新闻、游戏功能。</string>
-  <string name="msrp_challenge_details_title_2">使用 Firefox 账户兑换奖励</string>
+  <string name="msrp_challenge_details_title_2">使用 X Browser App 账户兑换奖励</string>
   <string name="msrp_challenge_details_body_2">%1$s。完成兑换之前，请务必保持登录到要使用的账户。</string>
   <string name="msrp_challenge_details_sign_in_to_start">请在此输入您的电子邮箱地址，即可开始挑战。</string>
   <string name="msrp_challenge_button_1">我要參加！</string>
@@ -401,13 +401,13 @@
   <string name="msrp_challenge_tou_terms_of_use">使用条款</string>
   <string name="msrp_challenge_button_2">离开任务</string>
   <string name="msrp_challenge_separator">如何兑换</string>
-  <string name="msrp_challenge_button_4">使用 Firefox 账户兑换</string>
+  <string name="msrp_challenge_button_4">使用 X Browser App 账户兑换</string>
   <string name="msrp_challenge_leaving_body">将删除您的所有进度，确定吗？</string>
   <string name="msrp_challenge_leaving_button_1">取消</string>
   <string name="msrp_challenge_leaving_button_2">离开</string>
   <string name="msrp_completed_popup_title">恭喜您！</string>
   <string name="msrp_completed_popup_body">感谢试用我们的若干新功能，希望你会喜欢！</string>
-  <string name="msrp_completed_popup_button1">使用 Firefox 账户兑换</string>
+  <string name="msrp_completed_popup_button1">使用 X Browser Lite 账户兑换</string>
   <string name="msrp_completed_popup_button2">稍后</string>
   <string name="msrp_challenge_completed_title">恭喜您！</string>
   <string name="msrp_challenge_completed_body">感谢试用我们的若干新功能，希望你会喜欢！</string>
@@ -424,10 +424,10 @@
   <string name="msrp_contact_us">联系我们</string>
   <string name="msrp_reward_redeem_redeem">兑换</string>
   <string name="msrp_reward_redeem_voucher">代金券</string>
-  <string name="msrp_disqualification_title_1">警告：检测到多个 Firefox 账户</string>
-  <string name="msrp_disqualification_body_1">只可使用 1 个 Firefox 账户参加“七日挑战赛”。若切换使用其他账户，您将失去参加此次挑战赛的资格。</string>
+  <string name="msrp_disqualification_title_1">警告：检测到多个 X Browser Lite 账户</string>
+  <string name="msrp_disqualification_body_1">只可使用 1 个 X Browser Lite 账户参加“七日挑战赛”。若切换使用其他账户，您将失去参加此次挑战赛的资格。</string>
   <string name="msrp_disqualification_button_1">我知道了</string>
-  <string name="msrp_disqualification_title_2">最后一次警告：检测到多个 Firefox 账户</string>
+  <string name="msrp_disqualification_title_2">最后一次警告：检测到多个 X Browser Lite 账户</string>
   <string name="msrp_disqualification_title_3">账户已禁用</string>
   <string name="msrp_disqualification_body_3">您不能再参加七日挑战赛。</string>
   <string name="msrp_disqualification_button_3">关闭</string>

@@ -217,17 +217,10 @@ public class SupportUtils {
         final String aboutBody = webView.getContext().getResources().getString(R.string.about_content_body, appName, mozilla);
 
         final String aboutURI = SupportUtils.getAboutURI();
-        final String learnMoreURL = SupportUtils.getManifestoURL();
-        final String supportURL = SupportUtils.getSumoURLForTopic(webView.getContext(), "rocket-help");
         final String rightURL = SupportUtils.getYourRightsURI();
         final String privacyURL = SupportUtils.getPrivacyURL();
-        final String feedURL = "https://www.mozilla.org/about/legal/terms/firefox-lite/";
-
-        final String linkLearnMore = resources.getString(R.string.about_link_learn_more);
-        final String linkSupport = resources.getString(R.string.about_link_support);
         final String linkYourRights = resources.getString(R.string.about_link_your_rights);
         final String linkPrivacy = resources.getString(R.string.about_link_privacy);
-        final String linkLifeFeed = resources.getString(R.string.about_link_terms_of_service);
 
         String aboutVersion = "";
         try {
@@ -239,20 +232,14 @@ public class SupportUtils {
 
         final String aboutContent = resources.getString(R.string.about_content
                 , aboutBody
-                , learnMoreURL
-                , linkLearnMore
-                , supportURL
-                , linkSupport
                 , rightURL
                 , linkYourRights
                 , privacyURL
                 , linkPrivacy
-                , feedURL
-                , linkLifeFeed
         );
         substitutionMap.put("%about-content%", aboutContent);
 
-        final String wordmark = HtmlLoader.loadDrawableAsDataURI(webView.getContext(), R.drawable.ic_firefox_lite_logo, R.color.about_logo_color);
+        final String wordmark = HtmlLoader.loadDrawableAsDataURI(webView.getContext(), R.drawable.favicon_default, R.color.about_logo_color);
         substitutionMap.put("%wordmark%", wordmark);
 
         substitutionMap.put("%webview-version%", webviewVersion);

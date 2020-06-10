@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">Téang hasil séjén</string>
   <string name="accessibility_find_previous_result">Téang hasil saméméhna</string>
   <string name="accessibility_dismiss_find_in_page">Tutup téangan dina kaca</string>
-  <string name="text_selection_search_action">Paluruh di Firefox Lite</string>
+  <string name="text_selection_search_action">Paluruh di X Browser App</string>
   <string name="about_content_body">%1$s téh panyungsi anu gancang tur hampang karya %2$s. Ari udaganana nya éta pikeun ngarojong internét nembrak anu séhat.</string>
   <string name="about_link_learn_more">Lenyepan</string>
   <string name="about_link_support">Pangrojong</string>
@@ -191,7 +191,7 @@
   <string name="update_to_latest_app_snack_bar_message">Wangun mutahir geus diundeur</string>
   <string name="update_to_latest_app_snack_bar_update">MUTAHIRKEUN</string>
   <string name="privacy_policy_update_notification_title">Wawar Apdétan Prodak</string>
-  <string name="privacy_policy_update_notification_action">Ngarah Firefox Lite leuwih hadé pikeun anjeun jeung balaréa, kami nyieun sawatara parobahan kana kawijakan salindungan kami. Toél baé pikeun leuwih teleb.</string>
+  <string name="privacy_policy_update_notification_action">Ngarah X Browser App leuwih hadé pikeun anjeun jeung balaréa, kami nyieun sawatara parobahan kana kawijakan salindungan kami. Toél baé pikeun leuwih teleb.</string>
   <string name="message_set_default_success">Nuhun geus milih %1$s!</string>
   <string name="message_set_default_incomplet">Badé nganggeuskeun setélan %1$s salaku panyungsi baku anjeun?</string>
   <string name="setting_default_browser_instruction_system_settings">Setél %1$s salaku panyungsi baku anjeun dina 30 detik</string>
@@ -215,7 +215,7 @@
   <string name="update_app_dialog_btn_later">ENGKÉ</string>
   <string name="your_rights_content1">%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku %2$s jeung kontributor séjénna.</string>
   <string name="your_rights_content2"><![CDATA["%1$s dijieunna pikeun anjeun kalayan dina pasaratan "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">%3$s</a>" jeung lisénsi sumber nembrak nu séjén."]]></string>
-  <string name="your_rights_content3"><![CDATA["Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla Foundation atawa pihak mana ogé, kaasup ngaran atawa logo %3$s, %4$s, atawa %1$s. Émbaran leuwih jero bisa dipanggihan "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">di dieu</a>.]]></string>
+  <string name="your_rights_content3"><![CDATA["Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang X Browser App atawa pihak mana ogé, kaasup ngaran atawa logo %3$s, %4$s, atawa %1$s. Émbaran leuwih jero bisa dipanggihan "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">di dieu</a>.]]></string>
   <string name="your_rights_content4"><![CDATA["Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">lis&#233;nsi</a>" bébas jeung sumber nembrak nu séjén."]]></string>
   <string name="your_rights_content5"><![CDATA["%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, Inc. minangka hasil karya nu misah jeung indepénden di handapeun "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">GNU General Public License v3</a>", sarta sayaga "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%3$s">di dieu</a>.]]></string>
   <string name="survey_notification_title">Kami butuh anjeun! %1$s</string>
@@ -393,7 +393,7 @@
   <string name="msrp_challenge_description">Pocer Shopee Rp15.000</string>
   <string name="msrp_challenge_details_title_1">Miluan tantangan 7-Poé</string>
   <string name="msrp_challenge_details_body_1">Cobaan Balanja, Warta, Kaulinan di Tepas %1$s ku ukur noél tombolna noron tujuh poé.</string>
-  <string name="msrp_challenge_details_title_2">Paké akun Firefox anjeun pikeun nebus ganjaran anjeun</string>
+  <string name="msrp_challenge_details_title_2">Paké akun X Browser App anjeun pikeun nebus ganjaran anjeun</string>
   <string name="msrp_challenge_details_body_2">%1$s Mastikeun anjeun asup ka akun anu dipiharep saméméh nganggeuskeun tebusan.</string>
   <string name="msrp_challenge_details_sign_in_to_start">Asupkeun alamat surél anjeun pikeun mitembeyan.</string>
   <string name="msrp_challenge_button_1">Miluan!</string>
@@ -401,13 +401,13 @@
   <string name="msrp_challenge_tou_terms_of_use">Katangtuan Maké</string>
   <string name="msrp_challenge_button_2">Tinggalkeun misi</string>
   <string name="msrp_challenge_separator">Cara nebus</string>
-  <string name="msrp_challenge_button_4">Paké akun Firefox pikeun nebus</string>
+  <string name="msrp_challenge_button_4">Paké akun X Browser App pikeun nebus</string>
   <string name="msrp_challenge_leaving_body">Sakur hanca anjeun bakal dihapus. Yakin?</string>
   <string name="msrp_challenge_leaving_button_1">BOLAY</string>
   <string name="msrp_challenge_leaving_button_2">NYINGKAH</string>
   <string name="msrp_completed_popup_title">Wilujeng!</string>
   <string name="msrp_completed_popup_body">Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga anjeun resep!</string>
-  <string name="msrp_completed_popup_button1">Paké akun Firefox pikeun nebus</string>
+  <string name="msrp_completed_popup_button1">Paké akun X Browser App pikeun nebus</string>
   <string name="msrp_completed_popup_button2">Engké</string>
   <string name="msrp_challenge_completed_title">Wilujeng!</string>
   <string name="msrp_challenge_completed_body">Ngahaturkeun nuhun pikeun nyobaan sababaraha fitur anyar. Muga-muga anjeun resep!</string>
@@ -424,10 +424,10 @@
   <string name="msrp_contact_us">Talek kami</string>
   <string name="msrp_reward_redeem_redeem">Tebus</string>
   <string name="msrp_reward_redeem_voucher">Pocer</string>
-  <string name="msrp_disqualification_title_1">Awas: aya sababaraha akun Firefox anu kalacak</string>
-  <string name="msrp_disqualification_body_1">Ngan hiji akun Firefox anu bisa dipaké pikeun miluan tangtangan 7-Poé. Lamun anjeun ganti sarta maké séjén akun, anjeun bakal dikaluarkeun tina tantangan ieu.</string>
+  <string name="msrp_disqualification_title_1">Awas: aya sababaraha akun X Browser App anu kalacak</string>
+  <string name="msrp_disqualification_body_1">Ngan hiji akun X Browser App anu bisa dipaké pikeun miluan tangtangan 7-Poé. Lamun anjeun ganti sarta maké séjén akun, anjeun bakal dikaluarkeun tina tantangan ieu.</string>
   <string name="msrp_disqualification_button_1">Kami ngarti</string>
-  <string name="msrp_disqualification_title_2">Panggeuing pamungkas: aya sababaraha akun Firefox anu kalacak</string>
+  <string name="msrp_disqualification_title_2">Panggeuing pamungkas: aya sababaraha akun X Browser App anu kalacak</string>
   <string name="msrp_disqualification_title_3">Akun ditumpurkeun</string>
   <string name="msrp_disqualification_body_3">Anjeun geus teu bisa miluan tangtangan 7-Poé.</string>
   <string name="msrp_disqualification_button_3">Tutup</string>

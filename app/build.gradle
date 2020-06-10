@@ -14,11 +14,11 @@ android {
     compileSdkVersion Versions.compile_sdk
     buildToolsVersion Versions.build_tools
     defaultConfig {
-        applicationId "org.mozilla.rocket"
+        applicationId "app.lite.xbrowser"
         minSdkVersion Versions.min_sdk
         targetSdkVersion Versions.target_sdk
-        versionCode Versions.version_code
-        versionName Versions.version_name
+        versionCode 1
+        versionName "1.0.1"
         if (SystemEnv.auto_screenshot == "1") {
             testInstrumentationRunner "org.mozilla.focus.test.runner.ScreenshotTestRunner"
             testInstrumentationRunnerArguments clearPackageData: 'true'
@@ -91,9 +91,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         debug {
-            def userName = System.getenv("USER")
-            applicationIdSuffix ".debug." + userName
-            versionNameSuffix applicationIdSuffix
         }
         // Use a separate buildType for coverage: testCoverageEnabled produces slower code (4-5x slower
         // in places that I've benchmarked), and more importantly seems to break debugging with Android Studio
@@ -297,8 +294,8 @@ dependencies {
     })
 
     // LeakCanary
-    debugImplementation "com.squareup.leakcanary:leakcanary-android:${Versions.leakcanary}"
-    firebaseImplementation "com.squareup.leakcanary:leakcanary-android:${Versions.leakcanary}"
+    //debugImplementation "com.squareup.leakcanary:leakcanary-android:${Versions.leakcanary}"
+    //firebaseImplementation "com.squareup.leakcanary:leakcanary-android:${Versions.leakcanary}"
 
     implementation "com.google.android.play:core:${Versions.play}"
 }

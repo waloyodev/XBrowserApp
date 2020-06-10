@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">Найти следующее совпадение</string>
   <string name="accessibility_find_previous_result">Найти предыдущее совпадение</string>
   <string name="accessibility_dismiss_find_in_page">Убрать поиск на странице</string>
-  <string name="text_selection_search_action">Искать в Firefox Lite</string>
+  <string name="text_selection_search_action">Искать в X Browser App</string>
   <string name="about_content_body">%1$s — быстрый и легкий браузер, созданный %2$s. Нашей миссией является обеспечение здоровья и открытости Интернета.</string>
   <string name="about_link_learn_more">Узнать больше</string>
   <string name="about_link_support">Поддержка</string>
@@ -191,7 +191,7 @@
   <string name="update_to_latest_app_snack_bar_message">Последняя сборка загружена</string>
   <string name="update_to_latest_app_snack_bar_update">ОБНОВИТЬ</string>
   <string name="privacy_policy_update_notification_title">Уведомление об обновлении продукта</string>
-  <string name="privacy_policy_update_notification_action">Чтобы сделать Firefox Lite лучше для вас и для всех, мы внесли некоторые изменения в нашу политику конфиденциальности. Нажмите, чтобы узнать больше.</string>
+  <string name="privacy_policy_update_notification_action">Чтобы сделать X Browser App лучше для вас и для всех, мы внесли некоторые изменения в нашу политику конфиденциальности. Нажмите, чтобы узнать больше.</string>
   <string name="message_set_default_success">Спасибо, что выбрали %1$s!</string>
   <string name="message_set_default_incomplet">Вы хотите завершить установку %1$s в качестве браузера по умолчанию?</string>
   <string name="setting_default_browser_instruction_system_settings">Установите %1$s в качестве браузера по умолчанию за 30 секунд</string>
@@ -215,7 +215,7 @@
   <string name="update_app_dialog_btn_later">ПОЗЖЕ</string>
   <string name="your_rights_content1">%1$s является бесплатной программой с открытым исходным кодом, созданной %2$s и другими участниками.</string>
   <string name="your_rights_content2"><![CDATA["%1$s предоставляется вам на условиях "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">%3$s</a>" и других лицензий для открытого исходного кода."]]></string>
-  <string name="your_rights_content3"><![CDATA["Вы не получаете никаких прав или лицензий на товарные знаки Mozilla Foundation или любой другой стороны, включая имена или логотипы %3$s, %4$s или %1$s. Дополнительную информацию можно найти "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">&#1079;&#1076;&#1077;&#1089;&#1100;</a>.]]></string>
+  <string name="your_rights_content3"><![CDATA["Вы не получаете никаких прав или лицензий на товарные знаки X Browser App или любой другой стороны, включая имена или логотипы %3$s, %4$s или %1$s. Дополнительную информацию можно найти "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">&#1079;&#1076;&#1077;&#1089;&#1100;</a>.]]></string>
   <string name="your_rights_content4"><![CDATA["Дополнительный исходный код для %1$s доступен под различными другими свободными и открытыми "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">&#1083;&#1080;&#1094;&#1077;&#1085;&#1079;&#1080;&#1103;&#1084;&#1080;</a>.]]></string>
   <string name="your_rights_content5"><![CDATA["%1$s также использует списки блокировки от Disconnect, Inc. как отдельные и независимые работы на условиях "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%2$s">&#1043;&#1077;&#1085;&#1077;&#1088;&#1072;&#1083;&#1100;&#1085;&#1086;&#1081; &#1087;&#1091;&#1073;&#1083;&#1080;&#1095;&#1085;&#1086;&#1081; &#1083;&#1080;&#1094;&#1077;&#1085;&#1079;&#1080;&#1080; GNU &#1074;&#1077;&#1088;&#1089;&#1080;&#1080; 3</a>", доступные "<a xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" href="%3$s">&#1079;&#1076;&#1077;&#1089;&#1100;</a>.]]></string>
   <string name="survey_notification_title">Мы нуждаемся в Вас! %1$s</string>
@@ -393,7 +393,7 @@
   <string name="msrp_challenge_description">Ваучер Shopee на 15000 рупий</string>
   <string name="msrp_challenge_details_title_1">Присоединитесь к 7-дневному испытанию</string>
   <string name="msrp_challenge_details_body_1">Используйте Шоппинг, Новости, Игры на домашнем экране %1$s, просто нажимая на кнопки 7 дней подряд.</string>
-  <string name="msrp_challenge_details_title_2">Используйте Аккаунт Firefox для получения своей награды</string>
+  <string name="msrp_challenge_details_title_2">Используйте Аккаунт X Browser App для получения своей награды</string>
   <string name="msrp_challenge_details_body_2">%1$s Убедитесь, что вы вошли в аккаунт, который хотите использовать для получения вознаграждения.</string>
   <string name="msrp_challenge_details_sign_in_to_start">Чтобы начать введите свой адрес электронной почты.</string>
   <string name="msrp_challenge_button_1">Я участвую!</string>
@@ -401,13 +401,13 @@
   <string name="msrp_challenge_tou_terms_of_use">Условиями использования</string>
   <string name="msrp_challenge_button_2">Покинуть миссию</string>
   <string name="msrp_challenge_separator">Как выкупить</string>
-  <string name="msrp_challenge_button_4">Использовать Аккаунт Firefox для выкупа</string>
+  <string name="msrp_challenge_button_4">Использовать Аккаунт X Browser App для выкупа</string>
   <string name="msrp_challenge_leaving_body">Все ваши достижения будут утеряны. Вы уверены?</string>
   <string name="msrp_challenge_leaving_button_1">ОТМЕНА</string>
   <string name="msrp_challenge_leaving_button_2">ВЫЙТИ</string>
   <string name="msrp_completed_popup_title">Поздравляем!</string>
   <string name="msrp_completed_popup_body">Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!</string>
-  <string name="msrp_completed_popup_button1">Использовать Аккаунт Firefox для выкупа</string>
+  <string name="msrp_completed_popup_button1">Использовать Аккаунт X Browser App для выкупа</string>
   <string name="msrp_completed_popup_button2">Позже</string>
   <string name="msrp_challenge_completed_title">Поздравляем!</string>
   <string name="msrp_challenge_completed_body">Спасибо, что опробовали некоторые из наших новых функций. Мы надеемся, что вам понравилось их использовать!</string>
@@ -424,10 +424,10 @@
   <string name="msrp_contact_us">Свяжитесь с нами</string>
   <string name="msrp_reward_redeem_redeem">Выкупить</string>
   <string name="msrp_reward_redeem_voucher">Ваучер</string>
-  <string name="msrp_disqualification_title_1">Предупреждение: обнаружено несколько Аккаунтов Firefox</string>
-  <string name="msrp_disqualification_body_1">Для участия в 7-дневном испытании можно использовать только один Аккаунт Firefox. Если вы переключитесь и будете использовать другой аккаунт, вы будете дисквалифицированы.</string>
+  <string name="msrp_disqualification_title_1">Предупреждение: обнаружено несколько Аккаунтов X Browser App</string>
+  <string name="msrp_disqualification_body_1">Для участия в 7-дневном испытании можно использовать только один Аккаунт X Browser App. Если вы переключитесь и будете использовать другой аккаунт, вы будете дисквалифицированы.</string>
   <string name="msrp_disqualification_button_1">Я понимаю</string>
-  <string name="msrp_disqualification_title_2">Последнее предупреждение: обнаружено несколько Аккаунтов Firefox</string>
+  <string name="msrp_disqualification_title_2">Последнее предупреждение: обнаружено несколько Аккаунтов X Browser App</string>
   <string name="msrp_disqualification_title_3">Аккаунт отключен</string>
   <string name="msrp_disqualification_body_3">Вы больше не можете участвовать в 7-дневном испытании.</string>
   <string name="msrp_disqualification_button_3">Закрыть</string>

@@ -16,7 +16,7 @@
   <string name="accessibility_find_next_result">পরবর্তী ফলাফল খুঁজুন</string>
   <string name="accessibility_find_previous_result">পূর্ববর্তী ফলাফল খুঁজুন</string>
   <string name="accessibility_dismiss_find_in_page">পাতায় অনুসন্ধান বাদ দিন</string>
-  <string name="text_selection_search_action">Firefox Lite এ খুঁজুন</string>
+  <string name="text_selection_search_action">X Browser App এ খুঁজুন</string>
   <string name="about_content_body">%1$s %2$s-র তৈরি একটি দ্রুত এবং হালকা ব্রাউজার। আমাদের লক্ষ্য হল একটি ভালো, মুক্ত ইন্টারনেটের উন্নতিবিধান করা।</string>
   <string name="about_link_learn_more">আরও জানুন</string>
   <string name="about_link_support">সহায়তা</string>
@@ -189,7 +189,7 @@
   <string name="update_to_latest_app_snack_bar_message">সর্বশেষ বিল্ড ডাউনলোড হয়েছে</string>
   <string name="update_to_latest_app_snack_bar_update">হালনাগাদ করুন</string>
   <string name="privacy_policy_update_notification_title">প্রোডাক্ট আপডেটের বিজ্ঞপ্তি</string>
-  <string name="privacy_policy_update_notification_action">আপনার এবং সবার জন্য Firefox Lite আরও উন্নত করতে আমরা আমাদের গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানার জন্য ট্যাপ করুন।</string>
+  <string name="privacy_policy_update_notification_action">আপনার এবং সবার জন্য X Browser App আরও উন্নত করতে আমরা আমাদের গোপনীয়তা নীতিতে কিছু পরিবর্তন করেছি। আরও জানার জন্য ট্যাপ করুন।</string>
   <string name="rate_app_dialog_text_title">%1$s কে ভালোবাসেন কি?</string>
   <string name="rate_app_dialog_text_content">আমাদের প্রোডাক্ট নির্বাচন করার জন্য আপনাকে ধন্যবাদ। আপনার মতামত আমাদের কাছে গুরুত্বপূর্ণ।</string>
   <string name="rate_app_dialog_btn_go_rate">আমাদের ব্যাপারে আপনার মতামত দিন</string>
@@ -373,7 +373,7 @@
   <string name="msrp_challenge_description">15,000 রুপি শপিং ভাউচার</string>
   <string name="msrp_challenge_details_title_1">7 দিনের চ্যালেঞ্জে যোগ দিন</string>
   <string name="msrp_challenge_details_body_1">একটানা সাতদিন ধরে বাটনগুলোয় ক্লিক করে %1$s হোম এ শপিং, নিউজ, গেম চেষ্টা করুন।</string>
-  <string name="msrp_challenge_details_title_2">আপনার পুরষ্কারটি পেতে Firefox অ্যাকাউন্ট ব্যবহার করুন</string>
+  <string name="msrp_challenge_details_title_2">আপনার পুরষ্কারটি পেতে X Browser App অ্যাকাউন্ট ব্যবহার করুন</string>
   <string name="msrp_challenge_details_body_2">%1$s ছাড় পাবার প্রক্রিয়া সম্পন্ন করার আগে নিশ্চিত হোন যে আপনার কাঙ্খিত অ্যাকাউন্টে সাইন ইন করেছেন।</string>
   <string name="msrp_challenge_details_sign_in_to_start">শুরু করাতে আপনার ইমেইল দিন।</string>
   <string name="msrp_challenge_button_1">আমি আছি!</string>
@@ -381,13 +381,13 @@
   <string name="msrp_challenge_tou_terms_of_use">ব্যবহারের শর্তাবলী</string>
   <string name="msrp_challenge_button_2">মিশন ছেড়ে দিন</string>
   <string name="msrp_challenge_separator">কীভাবে ছাড়বেন</string>
-  <string name="msrp_challenge_button_4">ব্যবহার করতে Firefox অ্যাকাউন্ট ব্যবহার করুন</string>
+  <string name="msrp_challenge_button_4">ব্যবহার করতে X Browser App অ্যাকাউন্ট ব্যবহার করুন</string>
   <string name="msrp_challenge_leaving_body">আপনার সমস্ত অগ্রগতি মুছে ফেলা হবে। আপনি কি নিশ্চিত?</string>
   <string name="msrp_challenge_leaving_button_1">CANCEL</string>
   <string name="msrp_challenge_leaving_button_2">LEAVE</string>
   <string name="msrp_completed_popup_title">অভিনন্দন!</string>
   <string name="msrp_completed_popup_body">আমাদের নতুন কিছু ফিচার ব‍্যবহার করার জন‍্য আপনাকে ধন‍্যবাদ। আমরা আশা করি আপনি সেগুলো ব্যবহার করে উপভোগ করেছেন!</string>
-  <string name="msrp_completed_popup_button1">ব্যবহার করতে Firefox অ্যাকাউন্ট ব্যবহার করুন</string>
+  <string name="msrp_completed_popup_button1">ব্যবহার করতে X Browser App অ্যাকাউন্ট ব্যবহার করুন</string>
   <string name="msrp_completed_popup_button2">পরে</string>
   <string name="msrp_challenge_completed_title">অভিনন্দন!</string>
   <string name="msrp_challenge_completed_body">আমাদের নতুন কিছু ফিচার ব‍্যবহার করার জন‍্য আপনাকে ধন‍্যবাদ। আমরা আশা করি আপনি সেগুলো ব্যবহার করে উপভোগ করেছেন!</string>
@@ -404,10 +404,10 @@
   <string name="msrp_contact_us">যোগাযোগ</string>
   <string name="msrp_reward_redeem_redeem">পুনরুদ্ধার করুন</string>
   <string name="msrp_reward_redeem_voucher">ভাউচার</string>
-  <string name="msrp_disqualification_title_1">সতর্কতা: একাধিক Firefox অ্যাকাউন্ট সনাক্ত করা হয়েছে</string>
-  <string name="msrp_disqualification_body_1">কেবল একটি Firefox অ্যাকাউন্ট থেকে 7-দিনের চ্যালেঞ্জে অংশগ্রহণ করা যেতে পারে। যদি আপনি অন্য অ্যাকাউন্টে বদল করেন, এই চ্যালেঞ্জ এর জন্য আপনাকে অযোগ্য ঘোষণা করা হবে।</string>
+  <string name="msrp_disqualification_title_1">সতর্কতা: একাধিক X Browser App অ্যাকাউন্ট সনাক্ত করা হয়েছে</string>
+  <string name="msrp_disqualification_body_1">কেবল একটি X Browser App অ্যাকাউন্ট থেকে 7-দিনের চ্যালেঞ্জে অংশগ্রহণ করা যেতে পারে। যদি আপনি অন্য অ্যাকাউন্টে বদল করেন, এই চ্যালেঞ্জ এর জন্য আপনাকে অযোগ্য ঘোষণা করা হবে।</string>
   <string name="msrp_disqualification_button_1">আমি বুঝেছি</string>
-  <string name="msrp_disqualification_title_2">চূড়ান্ত সতর্কতা: একাধিক Firefox অ্যাকাউন্ট সনাক্ত করা হয়েছে</string>
+  <string name="msrp_disqualification_title_2">চূড়ান্ত সতর্কতা: একাধিক X Browser App অ্যাকাউন্ট সনাক্ত করা হয়েছে</string>
   <string name="msrp_disqualification_title_3">অ্যাকাউন্ট নিষ্ক্রিয় করা হয়েছে</string>
   <string name="msrp_disqualification_body_3">আপনি আর 7-দিনের চ্যালেঞ্জে অংশ নিতে পারবেন না।</string>
   <string name="msrp_disqualification_button_3">বন্ধ</string>

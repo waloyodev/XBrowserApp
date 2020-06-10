@@ -89,20 +89,11 @@ object DialogUtils {
         val defaultPositiveText = context.getString(R.string.rate_app_dialog_btn_go_rate)
         val positiveText = if (TextUtils.isEmpty(configPositiveText)) defaultPositiveText else configPositiveText
         data.positiveText = positiveText
-        val configNegativeText = AppConfigWrapper.getRateAppNegativeString()
-        val defaultNegativeText = context.getString(R.string.rate_app_dialog_btn_feedback)
-        val negativeText = if (TextUtils.isEmpty(configNegativeText)) defaultNegativeText else configNegativeText
-        data.negativeText = negativeText
         data.showCloseButton = true
         return PromotionDialog(context, data)
                 .onPositive {
                     IntentUtils.goToPlayStore(context)
                     telemetryFeedback(context, TelemetryWrapper.Value.POSITIVE)
-                }
-                .onNegative {
-                    Settings.getInstance(context).setShareAppDialogDidShow()
-                    IntentUtils.openUrl(context, context.getString(R.string.rate_app_feedback_url), true)
-                    telemetryFeedback(context, TelemetryWrapper.Value.NEGATIVE)
                 }
                 .onClose {
                     Settings.getInstance(context).setRateAppDialogDidDismiss()

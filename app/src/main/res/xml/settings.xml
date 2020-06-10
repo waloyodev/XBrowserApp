@@ -6,11 +6,6 @@
     android:key="root_preferences">
     <!-- Empty default: we use an empty string to indicate "system default" language being selected -->
     <!--suppress AndroidDomInspection -->
-    <org.mozilla.focus.widget.LocaleListPreference
-        android:layout="@layout/focus_preference"
-        android:key="@string/pref_key_locale"
-        android:title="@string/preference_language"
-        android:defaultValue=""/>
 
     <org.mozilla.focus.search.SearchEnginePreference
         android:layout="@layout/focus_preference"
@@ -52,11 +47,6 @@
         android:layout="@layout/focus_preference"
         android:title="@string/preference_add_private_browsing_shortcut"
         android:key="@string/pref_key_private_mode_shortcut" />
-
-    <org.mozilla.focus.widget.TelemetrySwitchPreference
-        android:layout="@layout/preference_telemetry"
-        android:title="@string/preference_mozilla_telemetry"
-        android:persistent="false" />
 
     <Preference
         android:layout="@layout/focus_preference"
